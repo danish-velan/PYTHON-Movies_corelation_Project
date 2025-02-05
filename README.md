@@ -1,4 +1,4 @@
-The conclusion of the video is that I have successfully completed a data analysis project using Python, specifically focusing on a movie industry dataset. 
+I have successfully completed a data analysis project using Python, specifically focusing on a movie industry dataset. 
 Throughout the project,demonstrated how to clean and analyze the data, visualize correlations between various features (such as budget and gross revenue),
 and ultimately draw insights about what factors might influence a movie's financial success.
 
